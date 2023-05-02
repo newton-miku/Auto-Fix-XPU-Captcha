@@ -2,7 +2,7 @@
 // @name         XPU JWXT Captcha filler
 // @name:zh      西安工程大学教务处验证码填充
 // @namespace    https://github.com/zgq354
-// @version      0.4
+// @version      0.4.1
 // @description       自动填充西安工程大学教务处验证码
 // @description:en    Auto complete the XPU's JWXT website Captcha
 // @description:zh    自动填充西安工程大学教务处验证码
@@ -10,7 +10,7 @@
 // @author       zgq354
 // @Modified By  newton_miku
 // @match        http://jwxt.xpu.edu.cn/*
-// @match        http://jwxt.xpu.edu.cn/
+// @match        https://jwxt.xpu.edu.cn/*
 // @run-at       document-end
 // @downloadURL    https://raw.githubusercontent.com/newton-miku/Auto-Fix-XPU-Captcha/main/autoFix.user.js
 // @updateURL    https://raw.githubusercontent.com/newton-miku/Auto-Fix-XPU-Captcha/main/autoFix.user.js
