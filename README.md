@@ -7,4 +7,4 @@
 
 请在浏览器安装油猴脚本，然后点击下面的网址安装此脚本即可
 
-[点我安装脚本](https://raw.githubusercontent.com/newton-miku/Auto-Fix-XPU-Captcha/main/autoFix.js)
+[点我安装脚本](https://raw.githubusercontent.com/newton-miku/Auto-Fix-XPU-Captcha/main/autoFix.user.js)

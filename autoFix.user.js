@@ -12,6 +12,7 @@
 // @match        http://jwxt.xpu.edu.cn/*
 // @match        http://jwxt.xpu.edu.cn/
 // @run-at       document-end
+// @updateURL    https://raw.githubusercontent.com/newton-miku/Auto-Fix-XPU-Captcha/main/autoFix.user.js
 // @grant        none
 // ==/UserScript==
 
